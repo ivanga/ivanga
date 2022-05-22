@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ivanga">
-    <img src="[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanga&theme=monokai](https://github-readme-stats.vercel.app/api/top-langs/?username={username})"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanga"/>
   </a>
 </p>
 
